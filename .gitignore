@@ -1,0 +1,5 @@
+SignalR.Client/bin/
+SignalR.Client/obj/
+SignalR.Server/packages/
+SignalR.Server/SignalR.Server/bin/
+SignalR.Server/SignalR.Server/obj/Debug/
